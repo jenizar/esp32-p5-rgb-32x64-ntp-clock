@@ -9,12 +9,12 @@ note:
 
 this demo using ESP32_HUB75_LED_MATRIX_PANEL_DMA_Display (DMA library)
 
-pin hub75 wiring see. https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
+wiring esp32 with hub75 pin see. https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
 
 references:
 
-https://youtu.be/GQHOvhkm3fU
+1. https://youtu.be/GQHOvhkm3fU
 
-https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
+2. https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
 
 
