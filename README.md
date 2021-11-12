@@ -9,6 +9,9 @@ note:
 
 this demo using ESP32_HUB75_LED_MATRIX_PANEL_DMA_Display (DMA library)
 
+references:
+
+https://youtu.be/GQHOvhkm3fU
 
 
 
