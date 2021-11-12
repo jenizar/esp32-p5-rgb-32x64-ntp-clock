@@ -15,6 +15,8 @@ references:
 
 1. https://youtu.be/GQHOvhkm3fU
 
-2. https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
+2. https://arduino-projects-free.blogspot.com/2020/12/esp32-matrix-p4-64x32-rgb-ntp-clock.html
+
+3. https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
 
 
